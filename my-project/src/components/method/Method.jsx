@@ -4,7 +4,7 @@ import { Background } from './imports';
 const Method = () => {
 
   return (
-    <div className="Container w-full">
+    <div className="Container w-full pt-[10rem]">
       <div className="Header text-6xl font-medium text-center">Why Brand is your best choice?</div>
       <div className="SubHeader text-lg font-medium py-4 text-center">We always give our customers the best options to help them improve</div>
 

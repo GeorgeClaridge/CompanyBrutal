@@ -4,7 +4,7 @@ import { Background } from './imports';
 const Faq = () => {
 
   return (
-    <div className="Container w-full">
+    <div className="Container w-full pt-[10rem]">
 
       <div className="Header text-6xl font-medium text-center">Frequently Asked Questions</div>
 

@@ -4,7 +4,7 @@ import { Background } from './imports';
 const Work = () => {
 
   return (
-    <div className="Container w-full">
+    <div className="Container w-full pt-[10rem]">
 
       <div className="Header text-6xl font-medium text-center">How it Works?</div>
 
