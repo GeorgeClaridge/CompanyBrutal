@@ -4,9 +4,9 @@ import { Background } from './imports';
 const Faq = () => {
 
   return (
-    <div className="Container w-full pt-[10rem]">
+    <div className="Container w-[100%] lg:w-[60%] pt-[10rem]">
 
-      <div className="Header text-6xl font-medium text-center">Frequently Asked Questions</div>
+      <div className="Header text-6xl font-medium text-center pb-4">Frequently Asked Questions</div>
 
       <div className="text-2xl font-semibold text-purple-500 py-2">What is Brand</div>
       <div className="text-lg font-medium">WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE  WHAT ELSE  WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE WHAT ELSE  WHAT ELSE  </div>
